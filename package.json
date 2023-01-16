@@ -1,0 +1,23 @@
+{
+  "name": "trello-2-ways-sync-integration",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t14luanna/trello-2-ways-sync-integration.git"
+  },
+  "keywords": [
+    "notion",
+    "trello"
+  ],
+  "author": "luanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t14luanna/trello-2-ways-sync-integration/issues"
+  },
+  "homepage": "https://github.com/t14luanna/trello-2-ways-sync-integration#readme"
+}
